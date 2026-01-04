@@ -424,7 +424,7 @@ ResNet50	Hierarchical texture learning	2048
 Vision Transformer	Global semantic reasoning	768
 EfficientNet-B4	Parameter-efficient scaling	1792
 Custom CNN	Manipulation-specific features	1024
-
+```
 dataset/
 ├── train/
 │ ├── real/
@@ -435,7 +435,7 @@ dataset/
 └── test/
 ├── real/
 └── fake/
-
+```
 
 - **Total Images:** ~2,050
 - **Classes:** Real vs Fake (balanced)
